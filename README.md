@@ -1,10 +1,6 @@
-# mui-forms
+# Material UI Forms
 
-> Material UI forms using json based schema
- [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-## Change logs
-- Updated package to use lazy config option for select field
+Material UI forms using json based schema
   
 ## Advantages and features
 - Mui Components
@@ -64,9 +60,3 @@ Check out the [file]([typescript-schema.md](https://github.com/manojadams/mui-fo
 ## Contributions
 
 Open source contribution is welcome.
-
-## License
-
-MIT © [manojgetwealthy](https://github.com/manojgetwealthy)
-
-## Give a ⭐️ if you liked this project!
